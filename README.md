@@ -1,3 +1,5 @@
+![Screenshot 2024-07-26 162327](https://github.com/user-attachments/assets/445bf411-6a9d-47eb-ad8a-98be61282bda)
+
 Overview
 Platform Description: Twitch is a leading live-streaming platform focused primarily on video game streaming, esports, and various other forms of entertainment. It’s a subsidiary of Amazon.
 Unique Twitch Streamers
